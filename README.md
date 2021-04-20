@@ -1,3 +1,5 @@
+--- Developing continue ---------
+
 # 🔥 Steganography
 
  Steganography is  process that is use for hiding  information inside of Image, audio , video or any digital object.
@@ -62,7 +64,7 @@ How to solve Challenge of Steganography ?
 
 Ok  , no problem . Follow the given below process >>
 
-Process for solving Steganography image  Challenges :
+### 👀 Process for solving Steganography image  Challenges :
 
 Step 1: check file type using  file command
 
@@ -80,7 +82,7 @@ Step7:use magic eye solver
 
 Step8:use diit-1.5.jar and try to extract information 
 
-Process for solving Steganography wav  Challenges :
+### 😍 Process for solving Steganography wav  Challenges :
 
 Step 1 :open  file and listen it .
 
