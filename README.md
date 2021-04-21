@@ -8,8 +8,8 @@
 
 Steganography is  process that is use for hiding  information inside of Image, audio , video or any digital object.That means  when you hide your informaton inside image or audio or video   , then send it to your destination  it's called steganograpghy   .
 
-Example :
-         Suppose you  have file.txt and the content of file.txt is "Password is ilove## "
+See detials Via Video :
+                        https://youtu.be/Kxwzy2bJCqk
  
 ### Tools :
     
