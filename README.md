@@ -2,13 +2,14 @@
 
 # 🔥 Steganography
 
- Steganography is  process that is use for hiding  information inside of Image, audio , video or any digital object.
- 
- 
- 
-   
-   ![Header](https://user-images.githubusercontent.com/55437834/115628460-7ad61c80-a322-11eb-8095-a2bf03171db8.jpg)
- 
+
+![Header](https://user-images.githubusercontent.com/55437834/115628460-7ad61c80-a322-11eb-8095-a2bf03171db8.jpg)
+
+
+Steganography is  process that is use for hiding  information inside of Image, audio , video or any digital object.That means  when you hide your informaton inside image or audio or video   , then send it to your destination  it's called steganograpghy   .
+
+Example :
+         Suppose you  have file.txt and the content of file.txt is "Password is ilove## "
  
 ### Tools :
     
@@ -76,7 +77,7 @@ Ok  , no problem . Follow the given below process >>
 ### 👀 Process for solving Steganography image  Challenges :
 
 Step 1: check file type using  file command
-
+:ey
 Step2:use exiftool command 
 
 Step3:use strings command
