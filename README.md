@@ -20,47 +20,51 @@
     magic eye solver
     
     
-Steghide :
-          steghide mainly use for extract or embeded file into .jpg file . But one can extract information from 
-          audio / wav /mp3 file .
+### Steghide :
+              steghide mainly use for extract or embeded file into .jpg file . But one can extract information from 
+              audio / wav /mp3 file .
           
-Command :
-         steghide extract -sf image.jpg
+### Command :
+             steghide extract -sf image.jpg
          
-Note : Steghide don't extract .png format hide data 
+#### Note : Steghide don't extract .png format hide data 
 
-Stegoveritas :
-              stegoveritas ----comming soon
+
+### Stegoveritas :
+                  stegoveritas ----comming soon
               
-Zsteg :
-       zsteg use for extract data from .pnd format image .It is so useful tools in CTF contest .
+### Zsteg :
+zsteg use for extract data from .pnd format image .It is so useful tools in CTF contest .
        
-Command :
-         zsteg image.png
+### Command :
          
-Diit-1.5.jar :
-              diit-1.5.jar is so important tools for CTF contest . When all process fail to solve steganograhy challenge it come .
-              It use algorithm for extract data from image file
+zsteg image.png
+         
+### Diit-1.5.jar :
+diit-1.5.jar is so important tools for CTF contest . When all process fail to solve steganograhy challenge it come .
+It use algorithm for extract data from image file
      
-Command :
+#### Command :
               java -jar diit-1.5.jar
               
-Stegsolver :
+### Stegsolver :
              stegsolver is another important tools for ctf . It change color combination and expose data from image .
              
-Command :
-             java -jar  stegsolver
+#### Command :
+ java -jar  stegsolver
              
 Then , Choose target image and change color combination . If color changes system don't expose data you must click on  analyse button then choose option one by one . 
 
-Note : You can combine two magic image for getting information uing stegsolver
+#### Note : You can combine two magic image for getting information uing stegsolver
 
 
-Magic eye solver:
+### Magic eye solver:
                  magic eye solver is onle tools which is similar tools like stegsolver .It is mainly use for magic image .
                  
 
-How to solve Challenge of Steganography ?
+
+
+#### How to solve Challenge of Steganography ?
 
 Ok  , no problem . Follow the given below process >>
 
