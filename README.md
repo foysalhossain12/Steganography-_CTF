@@ -8,8 +8,7 @@
 
 Steganography is  process that is use for hiding  information inside of Image, audio , video or any digital object.That means  when you hide your informaton inside image or audio or video   , then send it to your destination  it's called steganograpghy   .
 
-See detials Via Video :
-                        https://youtu.be/Kxwzy2bJCqk
+#### 👀 See detials Via Video : https://youtu.be/Kxwzy2bJCqk
  
 ### Tools :
     
@@ -33,7 +32,7 @@ See detials Via Video :
 ### Command :
              steghide extract -sf image.jpg
          
-#### Note : Steghide don't extract .png format hide data 
+#### Note : Steghide can't extract .png format hide data 
 
 
 ### Stegoveritas :
@@ -77,7 +76,7 @@ Ok  , no problem . Follow the given below process >>
 ### 👀 Process for solving Steganography image  Challenges :
 
 Step 1: check file type using  file command
-:ey
+
 Step2:use exiftool command 
 
 Step3:use strings command
