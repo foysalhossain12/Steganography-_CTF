@@ -36,10 +36,6 @@ Steganography is  process that is use for hiding  information inside of Image, a
     See details using man command (man steghide )
              
               
-              
-          
-### Command :
-             steghide extract -sf image.jpg
          
 #### Note : Steghide can't extract .png format hide data 
 
