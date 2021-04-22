@@ -97,7 +97,7 @@ stegsolver is another important tools for ctf . It change color combination and 
              
 Then , Choose target image and change color combination . If color changes system don't expose data you must click on  analyse button then choose option one by one . 
 
-#### Note : You can combine two magic image for getting information uing stegsolver
+#### Note : You can combine two magic image for getting information using stegsolver
 
 ### Binwalk :
 Binwalk use for different purpose  .In steganography we will use Binwalk for extract information without password . That means , when we have no password for extract image  , we will use " Binwalk " for extracting information . ( It's default on Kali Linux )
@@ -117,8 +117,6 @@ It use algorithm for extract data from image file
 ### Magic eye solver:
      magic eye solver is onle tools which is similar tools like stegsolver .It is mainly use for magic image .
                  
-
-
 
 #### How to solve Challenge of Steganography ?
 
@@ -153,3 +151,9 @@ Step 3 :open sonic visualizer and try to extract information from it .
 Step 4 : If above all step are failed . Try to extract data using  steghide as it has ability to extract audio file 
 
 
+## Bonus :
+#### Stegcracker :
+Stegcracker use for crack password of image.jpg format file . That means  when  we have no password and we can't extract information using Binwalk tools  we will use stegcracker for crack password of target file . It is so important tools in stego .
+
+
+😍 Happy Hacking 👀
