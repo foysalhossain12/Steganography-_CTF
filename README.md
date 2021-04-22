@@ -102,9 +102,10 @@ Then , Choose target image and change color combination . If color changes syste
 ### Binwalk :
 Binwalk use for different purpose  .In steganography we will use Binwalk for extract information without password . That means , when we have no password for extract image  , we will use " Binwalk " for extracting information . ( It's default on Kali Linux )
 
-Command :
-         binwalk -e image.jpg
+#### Command :
+              binwalk -e image.jpg
          
+#### 😍 See details via youtube video :https://youtu.be/ANMp1EHuXCY
 
 ### Diit-1.5.jar :
 diit-1.5.jar is so important tools for CTF contest . When all process fail to solve steganograhy challenge it come .
