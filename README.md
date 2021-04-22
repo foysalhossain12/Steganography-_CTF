@@ -10,7 +10,7 @@ Steganography is  process that is use for hiding  information inside of Image, a
 
 #### 👀 See detials Via Video : https://youtu.be/Kxwzy2bJCqk
  
-### Tools :
+### ▶️ Tools :
     
     steghide
     stegoveritas
@@ -25,7 +25,7 @@ Steganography is  process that is use for hiding  information inside of Image, a
     magic eye solver
     
     
-### Steghide :
+### 🥇 Steghide :
 
 Steghide is one of the most famous steganography tools, and for good reason. It's a classic method, hiding a message inside an image, and steghide does it effectively and efficiently. A downside of steghide is that it only works on jpgs; however, that means that if you believe there is a hidden message inside a jpg, then steghide is a probable option.
 
@@ -56,7 +56,7 @@ One of the greatest benefits of stegohide, is that it can encrypt data with a pa
 
 
               
-### Zsteg :
+### 🥈 Zsteg :
 zsteg is to png's what steghide is to jpg's. It supports various techniques to extract any and all data from png files.
 
 
@@ -72,7 +72,7 @@ zsteg is to png's what steghide is to jpg's. It supports various techniques to e
          
               zsteg image.png
 
-### Stegoveritas :
+### 🥉 Stegoveritas :
 Personally this is one of my favorite image stego tools. It supports just about every image file, and is able to extract all types of data from it. It is an incredibly useful tool if you don't know exactly what you're looking for, as it has a myriad of built in tests to extract any and all data.
 
 
@@ -99,7 +99,7 @@ Then , Choose target image and change color combination . If color changes syste
 
 #### Note : You can combine two magic image for getting information using stegsolver
 
-### Binwalk :
+### 😆 Binwalk :
 Binwalk use for different purpose  .In steganography we will use Binwalk for extract information without password . That means , when we have no password for extract image  , we will use " Binwalk " for extracting information . ( It's default on Kali Linux )
 
 #### Command :
@@ -107,14 +107,14 @@ Binwalk use for different purpose  .In steganography we will use Binwalk for ext
          
 #### 😍 See details via youtube video :https://youtu.be/ANMp1EHuXCY
 
-### Diit-1.5.jar :
+### 🔥 Diit-1.5.jar :
 diit-1.5.jar is so important tools for CTF contest . When all process fail to solve steganograhy challenge it come .
 It use algorithm for extract data from image file
      
 #### Command :
               java -jar diit-1.5.jar
 
-### Magic eye solver:
+### 🧑‍🚀 Magic eye solver:
      magic eye solver is onle tools which is similar tools like stegsolver .It is mainly use for magic image .
                  
 
