@@ -26,6 +26,17 @@ Steganography is  process that is use for hiding  information inside of Image, a
     
     
 ### Steghide :
+
+Steghide is one of the most famous steganography tools, and for good reason. It's a classic method, hiding a message inside an image, and steghide does it effectively and efficiently. A downside of steghide is that it only works on jpgs; however, that means that if you believe there is a hidden message inside a jpg, then steghide is a probable option.
+
+
+
+One of the greatest benefits of stegohide, is that it can encrypt data with a passphrase. Meaning that if they don't have the password then they can't extract any data.
+
+
+
+steghide can be installed with the command sudo apt install steghide
+
     steghide mainly use for extract or embeded file into .jpg file . But one can extract information from  audio / wav /mp3 file .
     So we can said that "Steghide  is  a  steganography  program  that  is able to hide data in various kinds of image- and audio-files"
     To embed emb.txt in cvr.jpg:
@@ -35,7 +46,7 @@ Steganography is  process that is use for hiding  information inside of Image, a
      
     See details using man command (man steghide )
              
-              
+            
          
 #### Note : Steghide can't extract .png format hide data 
 
