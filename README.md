@@ -89,7 +89,7 @@ Personally this is one of my favorite image stego tools. It supports just about 
                   
 
               
-### Stegsolver :
+### ⏲️ Stegsolver :
 stegsolver is another important tools for ctf . It change color combination and expose data from image .
              
 #### Command :
@@ -151,7 +151,7 @@ Step 3 :open sonic visualizer and try to extract information from it .
 Step 4 : If above all step are failed . Try to extract data using  steghide as it has ability to extract audio file 
 
 
-## Bonus :
+## 👁️‍🗨️Bonus :
 #### Stegcracker :
 Stegcracker use for crack password of image.jpg format file . That means  when  we have no password and we can't extract information using Binwalk tools  we will use stegcracker for crack password of target file . It is so important tools in stego .
 
