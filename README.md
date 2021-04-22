@@ -38,7 +38,7 @@ One of the greatest benefits of stegohide, is that it can encrypt data with a pa
 #### Note :steghide can be installed with the command 👁️
                                                          sudo apt install steghide
      
-    Conclusion :
+##### Conclusion :
     
     steghide mainly use for extract or embeded file into .jpg file . But one can extract information from  audio / wav /mp3 file .
     So we can said that "Steghide  is  a  steganography  program  that  is able to hide data in various kinds of image- and audio-files"
@@ -54,8 +54,7 @@ One of the greatest benefits of stegohide, is that it can encrypt data with a pa
 #### Note : Steghide can't extract .png format hide data 
 
 
-### Stegoveritas :
-                  stegoveritas ----comming soon
+
               
 ### Zsteg :
 zsteg is to png's what steghide is to jpg's. It supports various techniques to extract any and all data from png files.
@@ -67,32 +66,48 @@ zsteg is to png's what steghide is to jpg's. It supports various techniques to e
 
 
 ##### zsteg can be installed by using ruby with the command:
-                                                      gem install zsteg
+                                                           gem install zsteg
        
-### Command :
+### Command : 
          
-zsteg image.png
-         
+              zsteg image.png
+
+### Stegoveritas :
+Personally this is one of my favorite image stego tools. It supports just about every image file, and is able to extract all types of data from it. It is an incredibly useful tool if you don't know exactly what you're looking for, as it has a myriad of built in tests to extract any and all data.
+
+
+
+### Note: Stegoveritas has other features as well such as color correcting images
+
+
+
+##### Stegoveritas can be installed by running these two commands:
+
+                                                            sudo pip3 install stegoveritas 
+
+                                                            stegoveritas_install_deps                
+                  
+
+              
+### Stegsolver :
+stegsolver is another important tools for ctf . It change color combination and expose data from image .
+             
+#### Command :
+              java -jar  stegsolver
+             
+Then , Choose target image and change color combination . If color changes system don't expose data you must click on  analyse button then choose option one by one . 
+
+#### Note : You can combine two magic image for getting information uing stegsolver
+
 ### Diit-1.5.jar :
 diit-1.5.jar is so important tools for CTF contest . When all process fail to solve steganograhy challenge it come .
 It use algorithm for extract data from image file
      
 #### Command :
               java -jar diit-1.5.jar
-              
-### Stegsolver :
-             stegsolver is another important tools for ctf . It change color combination and expose data from image .
-             
-#### Command :
- java -jar  stegsolver
-             
-Then , Choose target image and change color combination . If color changes system don't expose data you must click on  analyse button then choose option one by one . 
-
-#### Note : You can combine two magic image for getting information uing stegsolver
-
 
 ### Magic eye solver:
-                 magic eye solver is onle tools which is similar tools like stegsolver .It is mainly use for magic image .
+     magic eye solver is onle tools which is similar tools like stegsolver .It is mainly use for magic image .
                  
 
 
