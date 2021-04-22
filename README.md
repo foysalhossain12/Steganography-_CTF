@@ -35,8 +35,10 @@ One of the greatest benefits of stegohide, is that it can encrypt data with a pa
 
 
 
-steghide can be installed with the command sudo apt install steghide
-
+#### Note :steghide can be installed with the command 👁️ sudo apt install steghide
+     
+    Conclusion :
+    
     steghide mainly use for extract or embeded file into .jpg file . But one can extract information from  audio / wav /mp3 file .
     So we can said that "Steghide  is  a  steganography  program  that  is able to hide data in various kinds of image- and audio-files"
     To embed emb.txt in cvr.jpg:
