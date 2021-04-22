@@ -35,7 +35,8 @@ One of the greatest benefits of stegohide, is that it can encrypt data with a pa
 
 
 
-#### Note :steghide can be installed with the command 👁️ sudo apt install steghide
+#### Note :steghide can be installed with the command 👁️
+                                                         sudo apt install steghide
      
     Conclusion :
     
@@ -57,7 +58,16 @@ One of the greatest benefits of stegohide, is that it can encrypt data with a pa
                   stegoveritas ----comming soon
               
 ### Zsteg :
-zsteg use for extract data from .pnd format image .It is so useful tools in CTF contest .
+zsteg is to png's what steghide is to jpg's. It supports various techniques to extract any and all data from png files.
+
+
+
+### Note: zsteg also supports BMP files, but it is primarily used for png's.
+
+
+
+##### zsteg can be installed by using ruby with the command:
+                                                      gem install zsteg
        
 ### Command :
          
