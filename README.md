@@ -160,5 +160,20 @@ Step 4 : If above all step are failed . Try to extract data using  steghide as i
 #### Stegcracker :
 Stegcracker use for crack password of image.jpg format file . That means  when  we have no password and we can't extract information using Binwalk tools  we will use stegcracker for crack password of target file . It is so important tools in stego .
 
+### Stegcracker  Download and install :
+                       https://medium.com/@anastasisvasileiadis/stegcracker-steganography-brute-force-utility-to-uncover-hidden-data-inside-files-b8527600b890
+
+### Commnad :
+             stegcracker targetfile wordlist_for_brute_force_attack
+
+#### Stegseeker :
+Stegseeker is more than  powerful than  Stegcracker .I personally recommend to you , use stegseeker instead of stegcrakcer for .jpg format file password cracking.
+
+### Stegseeker Download and install :
+                        https://github.com/RickdeJager/stegseek/
+
+### Command :
+              stegseeker targetfile wordlist_for_brute_force_attack
+              
 
 😍 Happy Hacking 👀
